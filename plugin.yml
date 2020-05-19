@@ -1,0 +1,10 @@
+name: TopMoney
+main: TopMoney\Main
+version: 1.0.0
+api: 3.0.0
+author: AnjayMabar
+description: Plugin For Spawn TopMoney Simple
+
+commands: 
+    TopMoney:
+        description: Spawn TopMoney
